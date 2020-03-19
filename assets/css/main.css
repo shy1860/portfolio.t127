@@ -35,11 +35,15 @@ body {
 
 ol {
 	list-style: none;
+	text-align: left;
 }
 section #sec{
 	text-align: center;
 }
 #ul{
+	text-align: left;
+}
+ul{
 	text-align: left;
 }
 blockquote, q {
