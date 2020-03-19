@@ -36,6 +36,9 @@ body {
 ol {
 	list-style: none;
 }
+section #sec{
+	text-align: center;
+}
 #ul{
 	text-align: left;
 }
